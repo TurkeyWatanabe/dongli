@@ -7,19 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Student
-
-[Department of Computer Science](https://www.ecs.baylor.edu/computer-science)
-
-[School of Engineering and Computer Science](https://www.ecs.baylor.edu/)
-
-[Baylor University](https://www.baylor.edu/)
-
-One Bear Place #97141, Waco, Texas 76798, United States
-
+Ph.D. Student<br>
+[Department of Computer Science](https://www.ecs.baylor.edu/computer-science)<br>
+[School of Engineering and Computer Science](https://www.ecs.baylor.edu/)<br>
+[Baylor University](https://www.baylor.edu/)<br>
+One Bear Place #97141, Waco, Texas 76798, United States<br>
 Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]**
+
 [01/2025]  I will serve as the Web Chair for workshop ARRML @ SDM'25.
 
 
