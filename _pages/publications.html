@@ -11,9 +11,86 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<h2>Publications</h2>
+<p>(* indicates equal contribution)</p>
+
+<h3>Conference Papers</h3>
+
+<ol>
+  <li><strong>[ICASSP'25]</strong> GDDA: Semantic OOD Detection on Graphs under Covariate Shift via Score-Based Diffusion Model. <br>
+  Zhixia He, Chen Zhao, Minglai Shao, Yujie Lin, <strong>Dong Li</strong>, Qin Tian <br>
+  <em>In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 2025</em></li>
+
+  <li><strong>[KDD’25]</strong> MLDGG: Meta-Learning for Domain Generalization on Graphs. <br>
+  Qin Tian, Chen Zhao, Minglai Shao, Wenjun Wang, Yujie Lin, <strong>Dong Li</strong> <br>
+  <em>In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025</em></li>
+
+  <li><strong>[CIKM’24]</strong> Learning Fair Invariant Representations under Covariate and Correlation Shifts Simultaneously. <br>
+  <strong>Dong Li</strong>, Chen Zhao, Minglai Shao, Wenjun Wang. <br>
+  <em>In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024.</em></li>
+
+  <li><strong>[IJCAI’24]</strong> Supervised Algorithmic Fairness in Distribution Shifts: A Survey. <br>
+  Minglai Shao*, <strong>Dong Li*</strong>, Chen Zhao*, Xintao Wu, Yujie Lin, Qin Tian. <br>
+  <em>In Proceedings of the 33rd International Joint Conference on Artificial Intelligence, 2024.</em></li>
+
+  <li><strong>[CIKM’23]</strong> Contrastive Representation Learning Based on Multiple Node-centered Subgraphs. <br>
+  <strong>Dong Li</strong>, Wenjun Wang, Minglai Shao, Chen Zhao. <br>
+  <em>In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management, 2023.</em></li>
+</ol>
+
+<h3>Journal Papers</h3>
+
+<ol>
+  <li><strong>[DDNS’21]</strong> A new early rumor detection model based on bigru neural network. <br>
+  Xiangning Chen, Caiyun Wang, <strong>Dong Li</strong>, Xuemei Sun. <br>
+  <em>Discrete Dynamics in Nature and Society, 2021.</em></li>
+</ol>
+
+<h3>Preprints</h3>
+
+<ol>
+  <li>A Survey on Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluation Tasks. <br>
+  <strong>Dong Li*</strong>, Guihong Wan*, Xintao Wu, Xinyu Wu, Ajit J. Nirmal, Christine G. Lian, Peter K. Sorger, Yevgeniy R. Semenov, Chen Zhao. <br>
+  <em>ArXiv preprint, 6157834</em></li>
+
+  <li>FADE: Towards Fairness-aware Augmentation for Domain Generalization via Classifier-Guided Score-based Diffusion Models. <br>
+  Yujie Lin*, <strong>Dong Li*</strong>, Chen Zhao, Minglai Shao. <br>
+  <em>ArXiv preprint, 2406.09495</em></li>
+
+  <li>Graphs Generalization under Distribution Shifts. <br>
+  Qin Tian, Wenjun Wang, Chen Zhao, Minglai Shao, Wang Zhang, <strong>Dong Li</strong>. <br>
+  <em>ArXiv preprint, 2403.16334</em></li>
+</ol>
+
+<h3>Workshop Papers</h3>
+
+<ol>
+  <li><strong>[KDD’24-W]</strong> Semantic OOD Detection under Covariate Shift on Graphs with Diffusion Model. <br>
+  Zhixia He, Chen Zhao, Minglai Shao, Yujie Lin, <strong>Dong Li</strong>. <br>
+  <em>KDD Workshop on Uncertainty Reasoning and Quantification in Decision Making, 2024.</em></li>
+
+  <li><strong>[KDD’24-W]</strong> IDGG: Invariant Learning for Out-of-Distribution Generalization on Graphs. <br>
+  Qin Tian, Wenjun Wang, Minglai Shao, Chen Zhao, <strong>Dong Li</strong>. <br>
+  <em>KDD Workshop on Uncertainty Reasoning and Quantification in Decision Making, 2024.</em></li>
+
+  <li><strong>[KDD’24-W]</strong> Fair Data Generation via Score-based Diffusion Model. <br>
+  Yujie Lin, <strong>Dong Li</strong>, Chen Zhao, Minglai Shao. <br>
+  <em>KDD Workshop on Ethical Artificial Intelligence: Methods and Applications, 2024.</em></li>
+
+  <li><strong>[KDD’23-W]</strong> Learning Fair and Domain Generalization Representation. <br>
+  <strong>Dong Li</strong>, Chen Zhao, Minglai Shao, Xujiang Zhao. <br>
+  <em>KDD Workshop on Ethical Artificial Intelligence: Methods and Applications, 2023.</em></li>
+
+  <li><strong>[IMCEC-W’21]</strong> Twitter Rumor Detection Technology Based on Hierarchical Capsule Network. <br>
+  Wang Caiyun, Sun Xuemei, Rong Chuitian, <strong>Li Dong</strong>. <br>
+  <em>IEEE 4th Advanced Information Management, Communicates, Electronic and Automation Control Conference, 2021.</em></li>
+</ol>
+
+
+
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- New style rendering if publication categories are defined -->
 <!-- {% if site.publication_category %}
