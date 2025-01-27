@@ -8,36 +8,35 @@ redirect_from:
 ---
 
 Ph.D. Student
+
 [Department of Computer Science](https://www.ecs.baylor.edu/computer-science)
+
 [School of Engineering and Computer Science](https://www.ecs.baylor.edu/)
+
 [Baylor University](https://www.baylor.edu/)
+
 One Bear Place #97141, Waco, Texas 76798, United States
 
-**News [Upate!]**
-1111
+Email: dong_li1@baylor.edu
+
+**News [<span style="color:red">Update!</span>]**
+[01/2025]  I will serve as the Web Chair for workshop ARRML @ SDM'25.
 
 
 Biography
 ======
-11111
+I am currently a Ph.D. student in the Department of Computer Science at Baylor University. Prior to this, I earned a Master's degree from Tianjin University. My main research directions include graph mining, fairness-aware machine learning, domain generalization, _etc_. I have received multiple academic scholarships and national competition awards. My publications have been accepted by top international conferences such as IJCAI, CIKM, _etc_. 
 
 Education
 ======
-+ 1
-+ 2
-+ 3
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
++ Ph.D. (Computer Science), Baylor University, 2025
++ M.S. (Computer Science), Tianjin University, 2022
++ B.S. (Software Engineering), Tiangong University, 2018
 
 Research
 ------
-intrerst
-+ 1
-+ 2
-+ 3
-
-Awards & Honors
-------
-1111
+My main research directions include
++ Fairness-aware Machine Learning
++ Domain Generalization
++ Graph Mining
++ Causal Discovery
