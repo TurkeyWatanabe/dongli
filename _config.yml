@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Dong Li"
 description              : &description "Ph.D. student in Computer Science"
 url                      : https://turkeywatanabe.github.io/dongli # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/talks" # the subpath of your site, e.g. "/blog"
 repository               : "TurkeyWatanabe/dongli"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
