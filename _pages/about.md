@@ -16,7 +16,7 @@ Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]**
 
-[01/2025] I will serve as the Web Chair for workshop ARRML @ SDM'25.
+[01/2025] I will serve as the Web Chair for workshop ARRML @ SDM'25.<br>
 [01/2025] One tutorial is accepted by SDM 2025.
 
 
@@ -26,9 +26,9 @@ I am currently a Ph.D. student in the Department of Computer Science at Baylor U
 
 Education
 ======
-+ Ph.D. (Computer Science), Baylor University, 2025
-+ M.S. (Computer Science), Tianjin University, 2022
-+ B.S. (Software Engineering), Tiangong University, 2018
++ Ph.D. (Computer Science), Baylor University, 2025-present
++ M.S. (Computer Science), Tianjin University, 2025
++ B.S. (Software Engineering), Tiangong University, 2022
 
 Research
 ------
@@ -37,3 +37,4 @@ My main research directions include
 + Domain Generalization
 + Graph Mining
 + Causal Discovery
++ Computational Biology 
