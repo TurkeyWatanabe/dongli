@@ -17,7 +17,8 @@ Email: dong_li1@baylor.edu
 **News [<span style="color:red">Update!</span>]**
 
 [01/2025] I will serve as the Web Chair for workshop ARRML @ SDM'25.<br>
-[01/2025] One tutorial is accepted by SDM 2025.
+[01/2025] One tutorial is accepted by SDM 2025.<br>
+[01/2025] I serve as a reviewer for ARR 2024.
 
 
 Biography
