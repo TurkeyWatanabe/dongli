@@ -73,6 +73,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  CV               : "https://github.com/TurkeyWatanabe/dongli/blob/master/files/Academic_CV.pdf"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
