@@ -8,7 +8,7 @@
 
 + 2025
   + ACL Rolling Review - December 2024
- 
+  + KDD 2025 February Cycle
 
 ### Workshop Reviewer
 
