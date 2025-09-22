@@ -16,14 +16,14 @@ Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]**
 
-[09/2025] A paper is accepted by NeurIPS 2025.
-[09/2025] A tutorial is accepted by AAAI 2026.
-[07/2025] I will serve as a PC member for AAAI 2026.
-[07/2025] I will serve as a PC member for KDD 2026 (August cycle).
-[05/2025] A paper is accepted by ACL 2025.
-[04/2025] A paper is accepted by IJCAI 2025.
-[04/2025] Two tutorials are accepted by IJCAI 2025.
-[03/2025] Our survey on Multi-Modal Foundation Models for Computational Pathology is available online (arXiv preprint, 2503.09091).
+[09/2025] A paper is accepted by NeurIPS 2025.<br>
+[09/2025] A tutorial is accepted by AAAI 2026.<br>
+[07/2025] I will serve as a PC member for AAAI 2026.<br>
+[07/2025] I will serve as a PC member for KDD 2026 (August cycle).<br>
+[05/2025] A paper is accepted by ACL 2025.<br>
+[04/2025] A paper is accepted by IJCAI 2025.<br>
+[04/2025] Two tutorials are accepted by IJCAI 2025.<br>
+[03/2025] Our survey on Multi-Modal Foundation Models for Computational Pathology is available online (arXiv preprint, 2503.09091).<br>
 [01/2025] Our survey on Computational Pathology Foundation Models is available online (arXiv preprint, 2501.15724).<br>
 [01/2025] I will serve as the Web Chair for workshop ARRML @ SDM'25.<br>
 [01/2025] One tutorial is accepted by SDM 2025.<br>
