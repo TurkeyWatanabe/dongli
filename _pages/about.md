@@ -16,6 +16,7 @@ Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]**
 
+[10/2025] Two tutorials are accepted by ICDM 2025.<br>
 [09/2025] Two papers are accepted by NeurIPS 2025 workshops. <br>
 [09/2025] A paper is accepted by NeurIPS 2025.<br>
 [09/2025] A tutorial is accepted by AAAI 2026.<br>
