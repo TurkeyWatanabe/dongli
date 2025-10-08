@@ -16,6 +16,7 @@ Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]**
 
+[10/2025] I will serve as a reviewer for ICASSP 2026.<br>
 [10/2025] I will serve as a PC member for WWW 2026.<br>
 [10/2025] Two tutorials are accepted by ICDM 2025.<br>
 [09/2025] Two papers are accepted by NeurIPS 2025 workshops. <br>
