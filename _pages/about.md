@@ -16,7 +16,7 @@ Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]**
 
-[11/2025] A paper is accepted by TMLR.
+[11/2025] A paper is accepted by TMLR.<br>
 [11/2025] Three papers are accepted by AAAI 2026.<br>
 [10/2025] I will serve as a reviewer for ICASSP 2026.<br>
 [10/2025] I will serve as a PC member for WWW 2026.<br>
