@@ -15,7 +15,12 @@ One Bear Place #97141, Waco, Texas 76798, United States<br>
 Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]**
-
+[01/2026] I will serve as a reviewer for ICML 2026.<br>
+[01/2026] A paper is accepted by ICASSP 2025.<br>
+[01/2026] A paper is accepted by WWW 2025.<br>
+[01/2026] I will serve as a reviewer for KDD 2026.<br>
+[12/2025] I will serve as a reviewer for IJCAI 2026 Survey Track.<br>
+[12/2025] I will serve as a reviewer for PAKDD 2026.<br>
 [11/2025] A paper is accepted by TMLR.<br>
 [11/2025] Three papers are accepted by AAAI 2026.<br>
 [10/2025] I will serve as a reviewer for ICASSP 2026.<br>
