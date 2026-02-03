@@ -14,7 +14,7 @@ Ph.D. Student<br>
 One Bear Place #97141, Waco, Texas 76798, United States<br>
 Email: dong_li1@baylor.edu
 
-**News [<span style="color:red">Update!</span>]**
+**News [<span style="color:red">Update!</span>]** <br>
 [01/2026] I will serve as a reviewer for ICML 2026.<br>
 [01/2026] A paper is accepted by ICASSP 2025.<br>
 [01/2026] A paper is accepted by WWW 2025.<br>
