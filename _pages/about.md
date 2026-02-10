@@ -18,7 +18,7 @@ Email: dong_li1@baylor.edu
 [01/2026] I will serve as a reviewer for ICML 2026.<br>
 [01/2026] A paper is accepted by ICASSP 2025.<br>
 [01/2026] A paper is accepted by WWW 2025.<br>
-[01/2026] I will serve as a reviewer for KDD 2026.<br>
+[01/2026] I will serve as a reviewer for KDD 2026 in three tracks.<br>
 [12/2025] I will serve as a reviewer for IJCAI 2026 Survey Track.<br>
 [12/2025] I will serve as a reviewer for PAKDD 2026.<br>
 [11/2025] A paper is accepted by TMLR.<br>
