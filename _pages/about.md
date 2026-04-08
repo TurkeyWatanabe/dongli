@@ -15,6 +15,8 @@ One Bear Place #97141, Waco, Texas 76798, United States<br>
 Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]** <br>
+[04/2026] A paper is accepted by ACL 2026 (main conference).<br>
+[03/2026] I will serve as a reviewer for NeurIPS 2026.<br>
 [02/2026] I will serve as a PC member for ECML PKDD 2026.<br>
 [01/2026] I will serve as a reviewer for International Journal of Data Science and Analytics.<br>
 [01/2026] I will serve as a reviewer for ACL ARR 2026 January.<br>
