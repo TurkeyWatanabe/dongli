@@ -15,6 +15,7 @@ One Bear Place #97141, Waco, Texas 76798, United States<br>
 Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]** <br>
+[05/2026] A paper is accepted by KAIS <br>
 [05/2026] A tutorial is accepted by KDD 2026. <br>
 [04/2026] A paper is accepted by IJCAI 2026.<br>
 [04/2026] A paper is accepted by ACL 2026 (main conference).<br>
