@@ -45,13 +45,13 @@ Email: dong_li1@baylor.edu
 [03/2025] Our survey on Multi-Modal Foundation Models for Computational Pathology is available online (arXiv preprint, 2503.09091).<br>
 [01/2025] Our survey on Computational Pathology Foundation Models is available online (arXiv preprint, 2501.15724).<br>
 [01/2025] I will serve as the Web Chair for workshop ARRML @ SDM'25.<br>
-[01/2025] One tutorial is accepted by SDM 2025.<br>
+[01/2025] A tutorial is accepted by SDM 2025.<br>
 [01/2025] I serve as a reviewer for ARR 2024.
 
 
 Biography
 ======
-I am currently a Ph.D. student in the Department of Computer Science at Baylor University. Prior to this, I earned a Master's degree from Tianjin University. My main research directions include Large Language Model, Fairness-Aware Machine Learning, Domain Generalization, Computational Pathology, Graph Mining, _etc_. I have received multiple academic scholarships and national competition awards. My publications have been accepted by top international conferences such as NeurIPS, ACL, IJCAI, CIKM, _etc_. 
+I am currently a Ph.D. student in the Department of Computer Science at Baylor University. Before joining Baylor, I received my Master’s degree from Tianjin University. My research interests span Agentic AI, large language model reasoning, fairness-aware machine learning, domain generalization, computational pathology, causal discovery, graph mining, and related areas. I have been honored with multiple academic scholarships and national competition awards. My research has been published in leading international venues, including NeurIPS, ACL, IJCAI, CIKM, ICASSP, and others.
 
 Education
 ======
