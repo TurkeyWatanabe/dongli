@@ -16,7 +16,7 @@ Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]** <br>
 
-[08/2026] A paper is accepted by ICDM 2026. <br>
+[08/2026] <strong>One paper is accepted by ICDM 2026.</strong> <br>
 [08/2026] I will serve as a reviewer for WSDM 2027. <br>
 [07/2026] I will serve as a reviewer for ACML 2026. <br>
 [07/2026] I will serve as a reviewer for DASFAA 2027. <br>
@@ -25,40 +25,40 @@ Email: dong_li1@baylor.edu
 [06/2026] I will serve as a PC member for WAICA 2026.<br>
 [06/2026] I will serve as a reviewer for TMLR Journal.<br>
 [06/2026] I will serve as a reviewer for ICDM 2026.<br>
-[06/2026] A paper is accepted by Briefings in Bioinformatics. <br>
-[05/2026] I joined NEC Laboratories America as a Research Intern for Summer 2026.
-[05/2026] A paper is accepted by KAIS. <br>
-[05/2026] A tutorial is accepted by KDD 2026. <br>
-[04/2026] A paper is accepted by IJCAI 2026.<br>
-[04/2026] A paper is accepted by ACL 2026 (main conference).<br>
+[06/2026] <strong>One paper is accepted by Briefings in Bioinformatics.</strong> <br>
+[05/2026] <strong>I joined NEC Laboratories America as a Research Intern for Summer 2026.</strong> <br>
+[05/2026] <strong>One paper is accepted by KAIS.</strong> <br>
+[05/2026] One tutorial is accepted by KDD 2026. <br>
+[04/2026] <strong>One paper is accepted by IJCAI 2026.</strong><br>
+[04/2026] <strong>One paper is accepted by ACL 2026 (main conference).</strong><br>
 [03/2026] I will serve as a reviewer for NeurIPS 2026.<br>
 [02/2026] I will serve as a PC member for ECML PKDD 2026.<br>
 [01/2026] I will serve as a reviewer for International Journal of Data Science and Analytics.<br>
 [01/2026] I will serve as a reviewer for ACL ARR 2026 January.<br>
 [01/2026] I will serve as a reviewer for ICML 2026.<br>
-[01/2026] A paper is accepted by ICASSP 2025.<br>
-[01/2026] A paper is accepted by WWW 2025.<br>
+[01/2026] <strong>One paper is accepted by ICASSP 2025.</strong><br>
+[01/2026] <strong>One paper is accepted by WWW 2025.</strong><br>
 [01/2026] I will serve as a reviewer for KDD 2026 in three tracks.<br>
 [12/2025] I will serve as a reviewer for IJCAI 2026 Survey Track.<br>
 [12/2025] I will serve as a reviewer for PAKDD 2026.<br>
-[11/2025] A paper is accepted by TMLR.<br>
-[11/2025] Three papers are accepted by AAAI 2026.<br>
+[11/2025] <strong>One paper is accepted by TMLR.</strong><br>
+[11/2025] <strong>Three papers are accepted by AAAI 2026.</strong><br>
 [10/2025] I will serve as a reviewer for ICASSP 2026.<br>
 [10/2025] I will serve as a PC member for WWW 2026.<br>
 [10/2025] Two tutorials are accepted by ICDM 2025.<br>
 [09/2025] Two papers are accepted by NeurIPS 2025 workshops. <br>
-[09/2025] A paper is accepted by NeurIPS 2025.<br>
-[09/2025] A tutorial is accepted by AAAI 2026.<br>
+[09/2025] <strong>One paper is accepted by NeurIPS 2025.</strong><br>
+[09/2025] One tutorial is accepted by AAAI 2026.<br>
 [07/2025] I will serve as a PC member for AAAI 2026.<br>
 [07/2025] I will serve as a PC member for KDD 2026 (August cycle).<br>
-[05/2025] A paper is accepted by ACL 2025.<br>
-[04/2025] A paper is accepted by IJCAI 2025.<br>
+[05/2025] <strong>One paper is accepted by ACL 2025.</strong><br>
+[04/2025] <strong>One paper is accepted by IJCAI 2025.</strong><br>
 [04/2025] Two tutorials are accepted by IJCAI 2025.<br>
 [03/2025] Our survey on Multi-Modal Foundation Models for Computational Pathology is available online (arXiv preprint, 2503.09091).<br>
 [01/2025] Our survey on Computational Pathology Foundation Models is available online (arXiv preprint, 2501.15724).<br>
 [01/2025] I will serve as the Web Chair for workshop ARRML @ SDM'25.<br>
-[01/2025] A tutorial is accepted by SDM 2025.<br>
-[01/2025] I serve as a reviewer for ARR 2024.
+[01/2025] One tutorial is accepted by SDM 2025.<br>
+[01/2025] I will serve as a reviewer for ARR 2024.
 
 
 Biography
