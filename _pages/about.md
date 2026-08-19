@@ -26,6 +26,7 @@ Email: dong_li1@baylor.edu
 [06/2026] I will serve as a reviewer for TMLR Journal.<br>
 [06/2026] I will serve as a reviewer for ICDM 2026.<br>
 [06/2026] A paper is accepted by Briefings in Bioinformatics. <br>
+[05/2026] I joined NEC Laboratories America as a Research Intern for Summer 2026.
 [05/2026] A paper is accepted by KAIS. <br>
 [05/2026] A tutorial is accepted by KDD 2026. <br>
 [04/2026] A paper is accepted by IJCAI 2026.<br>
