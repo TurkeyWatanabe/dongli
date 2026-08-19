@@ -5,21 +5,37 @@ permalink: /experience/
 author_profile: true
 ---
 
-<h3>Research Internships</h3>
+<h3>Industry Research Experience</h3>
 
 <ul>
   <li>
-    <strong>Research Intern</strong>, NEC Laboratories America, Princeton, NJ, USA
+    <strong>NEC Laboratories America</strong>, Princeton, NJ, USA
     <ul>
-      <li>May 26 2026 – August 21 2026</li>
-      <li>Data Science and System Security Department</li>
       <li>
-        Conducted research on efficient LLM-based agents, with a focus on model routing,
-        context management, and multi-step agent execution.
+        <strong>Research Intern</strong>, Data Science and System Security Department
+        <br>May 26, 2026 – August 21, 2026
+        <ul>
+          <li>
+            <strong>Project:</strong>
+            <em>The Right Model with the Right Context:
+            Joint Model–Context Routing for Token-Efficient Multi-Turn Agents</em>
+          </li>
+          <li>
+            Conducted research on joint model–context routing for
+            token-efficient multi-turn LLM agents.
+          </li>
+        </ul>
       </li>
+
       <li>
-        <strong>Project:</strong> <em>The Right Model with the Right Context:
-        Joint Model–Context Routing for Token-Efficient Multi-Turn Agents</em>
+        <strong>Collaborative Research (Remote)</strong>
+        <br>May 2025 – May 2026
+        <ul>
+          <li>
+            Collaborated with NEC researchers on LLM-based agents
+            across multiple research projects.
+          </li>
+        </ul>
       </li>
     </ul>
   </li>
