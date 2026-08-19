@@ -15,7 +15,18 @@ One Bear Place #97141, Waco, Texas 76798, United States<br>
 Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]** <br>
-[05/2026] A paper is accepted by KAIS <br>
+
+[08/2026] A paper is accepted by ICDM 2026. <br>
+[08/2026] I will serve as a reviewer for WSDM 2027. <br>
+[07/2026] I will serve as a reviewer for ACML 2026. <br>
+[07/2026] I will serve as a reviewer for DASFAA 2027. <br>
+[07/2026] I will serve as a reviewer for AAAI 2027. <br>
+[07/2026] I will serve as a reviewer for KDD 2027 in Research and AI4Sciences track.<br>
+[06/2026] I will serve as a PC member for WAICA 2026.<br>
+[06/2026] I will serve as a reviewer for TMLR Journal.<br>
+[06/2026] I will serve as a reviewer for ICDM 2026.<br>
+[06/2026] A paper is accepted by Briefings in Bioinformatics. <br>
+[05/2026] A paper is accepted by KAIS. <br>
 [05/2026] A tutorial is accepted by KDD 2026. <br>
 [04/2026] A paper is accepted by IJCAI 2026.<br>
 [04/2026] A paper is accepted by ACL 2026 (main conference).<br>
