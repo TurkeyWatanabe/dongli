@@ -16,7 +16,7 @@ Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]** <br>
 
-[08/2026] I will serve as a reviewer for Nature Compitational Science. <br>
+[08/2026] I will serve as a reviewer for Nature Computational Science. <br>
 [08/2026] <strong>One paper is accepted by ICDM 2026.</strong> <br>
 [08/2026] I will serve as a reviewer for WSDM 2027. <br>
 [07/2026] I will serve as a reviewer for ACML 2026. <br>
