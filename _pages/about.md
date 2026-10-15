@@ -15,7 +15,14 @@ One Bear Place #97141, Waco, Texas 76798, United States<br>
 Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]** <br>
-
+[10/2026] Two papers are accepted by IEEE BigData 2026 PhD forum. <br>
+[10/2026] I will serve as a reviewer for ICLR 2027. <br>
+[09/2026] <strong>One paper is accepted by NeurIPS 2026.</strong><br>
+[09/2026] I will serve as a reviewer for IEEE BigData 2026 PhD forum. <br>
+[09/2026] I will serve as a reviewer for the LLM4HR and ARRL-Health workshops at BIBM'26. <br>
+[09/2026] One tutorial is accepted by IEEE BigData 2026. <br>
+[09/2026] I will serve as a reviewer for WWW 2027. <br>
+[09/2026] I will serve as a reviewer for ICASSP 2027. <br>
 [08/2026] I will serve as a reviewer for Nature Computational Science. <br>
 [08/2026] <strong>One paper is accepted by ICDM 2026.</strong> <br>
 [08/2026] I will serve as a reviewer for WSDM 2027. <br>
