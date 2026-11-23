@@ -85,6 +85,7 @@ Research
 ------
 My main research directions include
 + Large Language Model
++ Agentic AI
 + Fairness-aware Machine Learning
 + Domain Generalization
 + Computational Pathology 
