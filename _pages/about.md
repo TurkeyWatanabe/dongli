@@ -15,6 +15,7 @@ One Bear Place #97141, Waco, Texas 76798, United States<br>
 Email: dong_li1@baylor.edu
 
 **News [<span style="color:red">Update!</span>]** <br>
+[11/2026] <strong>One paper is accepted by ACM Computing Surveys (IF: 30.4, Rank 1/146 in CS Theory & Methods). </strong><br>
 [11/2026] I will serve as a reviewer for Briefings in Bioinformatics. <br>
 [11/2026] I will serve as a reviewer for PAKDD 2027. <br>
 [11/2026] <strong>One paper is accepted by KDD 2027.</strong> <br>
